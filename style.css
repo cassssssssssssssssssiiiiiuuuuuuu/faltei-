@@ -1,0 +1,36 @@
+body {background-color: black;
+text-align: center;
+font-size: 50px;
+color: aliceblue}
+
+#img1 {border: 1px;
+    border-style: solid;
+    border-color: white;
+    width: 600px;
+    height: 600px;}
+
+#img2 {border: 1px;
+    border-style: solid;
+    border-color: white;
+    width: 600px;
+    height: 600px;} 
+
+#img3 {border: 1px;
+    border-style: solid;
+    border-color: white;
+    width: 600px;
+    height: 600px;}
+    
+#img4 {border: 1px;
+    border-style: solid;
+    border-color: white;
+    width: 600px;
+    height: 600px;}
+
+
+h2 {border: 1px;
+    border-style: solid;
+    border-color: white;}
+h4 {font-size: 25px;}
+h3 {font-size: 15px;}
+h5 { color:black;}  
