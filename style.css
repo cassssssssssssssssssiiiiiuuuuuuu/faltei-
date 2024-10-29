@@ -2,7 +2,7 @@ body {background-color: black;
 text-align: center;
 font-size: 50px;
 color: aliceblue;
-line-height: 50px;}
+}
 
 #img1 {border: 1px;
     border-style: solid;
@@ -35,3 +35,4 @@ h2 {border: 1px;
 h4 {font-size: 25px;}
 h3 {font-size: 15px;}
 h5 { color:black;}  
+ul::marker {color: red;}
